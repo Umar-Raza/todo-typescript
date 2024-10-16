@@ -1,5 +1,5 @@
 # React router action
- In this repository, yoou will see into the practical implementation of React Router Action functions with the Form component from React Router.
+  This is a complete todo app build using React and TypeScript.
 
 ## Installation
 1. Clone the repository:
